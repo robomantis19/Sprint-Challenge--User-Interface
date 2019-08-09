@@ -49,11 +49,45 @@ table {
 
 * {
     box-sizing: border-box;
+    border: 1px solid aqua;
 }
 
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
+     display: flex;
+     flex-direction: column;
+     
+}
+.NavHead{
+    display: flex;
+    justify-content: center;
+    
+    border: 1px solid aqua;
+}
+img{
+    height: 80%
+    width: 25%;
+}
+header{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    height: 50px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-between; */
+    border: 1px solid aqua;
+}
+header nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    border: 1px solid aqua;
+}
+header nav a{
+    text-decoration: none;
+    color: black;
 }
 
 h1, h2, h3, h4, h5 {
@@ -71,6 +105,11 @@ p {
     margin: 0 auto;
 }
 
+.mainPic{
+    
+    border: 1px solid aqua;
+
+}
 .top-content {
     display: flex;
     flex-wrap: wrap;
