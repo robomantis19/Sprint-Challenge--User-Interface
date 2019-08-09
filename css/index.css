@@ -105,6 +105,28 @@ p {
     margin: 0 auto;
 }
 
+.container.about-page{
+    display: flex;
+    flex-direction: column;
+}
+
+.container1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px dashed black;
+}
+
+.container2{
+    display: flex;
+}
+
+.container3{
+    display: flex;
+}
+.container4{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 .mainPic{
     
     border: 1px solid aqua;
