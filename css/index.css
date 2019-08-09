@@ -170,7 +170,7 @@ p {
     background: forestgreen;
 }
 .boxes .box:nth-child(7){
-    background: darkorchild;
+    background: darkorchid;
 }
 .boxes .box:nth-child(8){
     background: hotpink;
