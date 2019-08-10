@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+# Samantic HTML is the syntatic meaning of the html
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+# display block works like paragragh p tags, inline sets them horizontally with spacing;
 
 3. What are the 4 areas of the box model?
 
+# Margin, border, padding, content.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+#cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+# There is a timeline of changes so you can fast forward or go back in time to revert changes.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
