@@ -204,5 +204,64 @@ footer nav a {
 .container.about-page{
     display: flex;
     flex-direction: column;
-    align-items: space-around;
+    
+}
+
+.work{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    border-bottom: 2px dashed black;
+}
+
+.work1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border-bottom: 2px dashed black;
+    
+}
+.strategy{
+    width: 45%;
+}
+.How{
+    width: 45%;
+}
+
+.work1 h2{
+    padding-top: 20px;
+}
+
+
+.work2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border-bottom: 2px dashed black;
+    
+}
+.work2 h2{
+    padding-top: 20px;
+}
+button{
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: .3rem;
+}
+.Place{
+    width: 45%;
+}
+
+.Collab{
+    width: 45%;
 }
