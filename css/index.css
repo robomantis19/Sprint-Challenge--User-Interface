@@ -199,3 +199,10 @@ footer nav a {
 .boxes .box:nth-child(10){
     background-color: dodgerblue;
 }
+
+
+.container.about-page{
+    display: flex;
+    flex-direction: column;
+    align-items: space-around;
+}
